@@ -3,18 +3,18 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-03-24T13:39:40.930007-04:00"
+    created: "2020-03-24T17:57:06.461041-04:00"
     description: A Helm chart for Kubernetes
     digest: 83775ceb56dabf1a9f79f5b9309ff5860acfbe964bfb014dc420d7ae3af82adf
     name: helm-chart-test
     type: application
     urls:
-    - https://github.com/foleymic/helm.git/helm-chart-test-0.1.0.tgz
+    - https://foleymic.github.io/helm/helm-chart-test-0.1.0.tgz
     version: 0.1.0
   home-assistant:
   - apiVersion: v1
     appVersion: 0.106.6
-    created: "2020-03-24T13:39:40.93133-04:00"
+    created: "2020-03-24T17:57:06.462692-04:00"
     description: Home Assistant
     digest: a13f73d0b33199eb2a1255adf8f8ba006d31c9106c6760b39e96c261b45d3d75
     home: https://github.com/home-assistant/home-assistant
@@ -34,6 +34,6 @@ entries:
     - https://github.com/danielperna84/hass-configurator
     - https://github.com/cdr/code-server
     urls:
-    - https://github.com/foleymic/helm.git/home-assistant-0.12.4.tgz
+    - https://foleymic.github.io/helm/home-assistant-0.12.4.tgz
     version: 0.12.4
-generated: "2020-03-24T13:39:40.929171-04:00"
+generated: "2020-03-24T17:57:06.453654-04:00"
